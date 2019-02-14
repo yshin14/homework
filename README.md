@@ -1,2 +1,2 @@
 # homework
-homework for SAIC RSII metameda
+homework for SAIC RSII metamedia

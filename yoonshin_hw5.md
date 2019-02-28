@@ -20,7 +20,7 @@ Since light have to go through all three layers, it has poor strength on low lig
 
 ## Who are the important people and/or organizations related to this idea/technology? Don't just list names, briefly explain who these are and what their relationship to your research area is.
 
-Foveon X3 sensor is designed by Foveon, Inc. (Part of Sigma Corporation). The sensor is manufactured by Dongbu Electronics. This technology first produced as a test unit at 2002 for the Sigma SD9 DSLR camera. Sigma is third party lens company. Mainly for Canon DSLR, but now also Sony Mirrorless cameras. They originally lens making company for cameras. If they able to create this sensor and manufacture, than this company will change entire buisness and be one of best camera manufacturer.
+Foveon X3 sensor is designed by Foveon, Inc. (Part of Sigma Corporation). The sensor is manufactured by Dongbu Electronics. This technology first produced as a test unit at 2002 for the Sigma SD9 DSLR camera. Sigma is third party lens company. Mainly for Canon DSLR, but now also Sony Mirrorless cameras. They originally lens making company for cameras. If they able to create this sensor and manufacture, than this company will change entire buissness and be one of best camera manufacturer.
 
 ## What are the important historical events/milestones in the development of this technology and why do they seem particularly note worthy?
 

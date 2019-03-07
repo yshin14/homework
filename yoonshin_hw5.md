@@ -26,8 +26,6 @@ Foveon X3 sensor is designed by Foveon, Inc. (Part of Sigma Corporation). The se
 
 First color accuracy is almost 100% when they are able to solve lighting problem. Which brings photographer to decrease editing time. In my personal case, I take about 1500 pictures a day. This will take few hours to adjust every pictures color and white balance. Also more people possibly will get into photography more because you don't have to have good knowledge of color adjusting.
 
-## Draw (literally or figuratively) connections between the technology you are researching and other related technology. This could include sub-categories within your research area and/or technological predecessors and/or technology which is otherwise related to your area.
-
 Sources:
 http://www.foveon.com/files/F13_Dongbu_PressRelease_final.pdf
 https://www.jstage.jst.go.jp/article/photogrst1964/66/1/66_1_57/_pdf

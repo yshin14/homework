@@ -7,7 +7,7 @@ In 1977 Japan's Tsukuba Mechanical Engineering Laboratory developed automated ca
 
 There is different type of levels for the Self-Driving Cars.
 
-![Levels](../../in_progress images/bi-graphics_autonomous-cars.png)
+![Levels](in_progress images/bi-graphics_autonomous-cars.png)
 
 Current market cars are level two.
 
@@ -17,4 +17,4 @@ The A.I is depends on the data. More data is used to deep learn the A.I, the mor
 
 My art piece is about visual representation of corrupted data, and in perfect A.I recovered data.
 
-![independant](../../in_progress images/Declaration of Independant.jpg)
+![independant](in_progress images/Declaration of Independant.jpg)

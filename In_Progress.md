@@ -7,4 +7,4 @@
 #### Size: 1920 x 1080px
 #### Medium: After Effect
 
-I used gif on short animation. The GIF doesn't contain a lot of data than usual data form. Which this created aesthetic look on animation. (Like skin ziggling) This caught me interesting. So I was trying to manipulate with my theme, future industrial revolution.
+GIF is a file type that decreases the file size to be fitted on the web. Obviously, GIF decreases file by compressing and losing data. This follows my theme, which is visual representation of lost data.

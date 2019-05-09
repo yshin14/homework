@@ -7,26 +7,14 @@ In 1977 Japan's Tsukuba Mechanical Engineering Laboratory developed automated ca
 
 There is different type of levels for the Self-Driving Cars.
 
-##### Level 0:
-The automated system has no control over the vehicle, but may prompt the driver of hazards
+![Levels](../in_progress images/bi-graphics_autonomous-cars.png)
 
-##### Level 1:
-The driver and the automated system share control of the vehicle. Examples of this can be found in most cars equipped with ADAS (Advanced Driver-Assistance Systems)
-
-##### Level 2:
-The automated system is capable of taking full control of the vehicle; however, the driver must be ready to intervene if the system fails to recognize a potential hazard
-
-##### Level 3:
-The Automated system takes full control of the vehicle and the passenger can safely take their attention away from driving tasks; however, they must still be able to intervene
-
-##### Level 4:
-Driver can safely divert all attention away from driving tasks and let the automated system take full control. This functionality is currently limited to specific “geofenced” areas and other relatively controlled environments1
-
-##### Level 5:
-No human intervention is required
-
-Our current level is two.
+Current market cars are level two.
 
 In 2017, Audi invented their own system called "Audi AI". This system is integrated to latest A8. Today's car like Tesla required to do safety checks. This requires gripping the steering wheels. However this Audi A8 doesn't require frequent gripping. This is claimed to be first production car to reach level 3. This is possible because they added laser scanner to cameras and ultrasonic sensors which manufacturer never integrated to their systems before.
 
-There isn't any individual who created this systems nor the groups. This is competition between many companies that there could be ideas that caused by Self-Driving Cars that we never aware of.
+The A.I is depends on the data. More data is used to deep learn the A.I, the more accurate the A.I is. The data plays very basic, but major role at the future. The money we use today depends on the gold. Gold is most valuable object in the Earth and the form never changes. So gold is independant system, and dollar system depends on gold system. Like this, data wanted to play independant system. However, data changes the form over time. It corrupt as time passes. Although there is A.I data recovering system, but system that is creating A.I also depends on another A.I.
+
+My art piece is about visual representation of corrupted data, and in perfect A.I recovered data.
+
+![independant](../in_progress images/Declaration of Independant.jpg)

@@ -17,4 +17,4 @@ The A.I is depends on the data. More data is used to deep learn the A.I, the mor
 
 My art piece is about visual representation of corrupted data, and in perfect A.I recovered data.
 
-![independant](Declaration of Independant.jpg)
+![independant](../Declaration of Independant.jpg)

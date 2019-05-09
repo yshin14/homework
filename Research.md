@@ -1,4 +1,4 @@
-![LostData](../in_progress images/LostData.jpg)
+![LostData](in_progress images/LostData.jpg)
 
 # Declaration of Independence
 #### Date: April 21st
